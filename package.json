@@ -1,0 +1,1 @@
+{\n  "name": "jualbisnis",\n  "version": "1.0.0",\n  "description": "A backend Node.js project",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.10.9"\n  },\n  "devDependencies": {},\n  "keywords": [],\n  "author": "hdmuttaqin",\n  "license": "ISC"\n}
